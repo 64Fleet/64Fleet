@@ -1,0 +1,61 @@
+
+@font-face {
+    font-family: 'yea'; /*a name to be used later*/
+    src: url(jenkins.TTF); /*URL to font*/
+}
+
+@font-face {
+    font-family: 'main'; /*a name to be used later*/
+    src: url(jbmsb.ttf); /*URL to font*/
+}
+
+
+html {
+    background-color: #181818;
+}
+
+
+.classS {
+    font-size:25px;
+    color:white;
+    text-align: center;
+    font-family: main;
+}
+
+
+
+.desc {
+    font-size:15px;
+    color:white;
+    text-align: center;
+    font-family: main;
+}
+
+.titlee {
+    font-size: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #C1292E;
+    font-family: yea;
+    text-shadow: 8px 8px 16px #000000;
+}
+
+.headerr {
+    color: #ac252a;
+    font-size:25px;
+
+}
+
+a:visited {
+    font-size:15px;
+    color:white;
+    text-align: center;
+    font-family: main;
+}
+
+a {
+    font-size:15px;
+    color:white;
+    text-align: center;
+    font-family: main;
+}
