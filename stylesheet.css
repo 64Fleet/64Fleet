@@ -1,12 +1,12 @@
 
 @font-face {
     font-family: 'yea'; /*a name to be used later*/
-    src: url(main/jenkins.TTF); /*URL to font*/
+    src: url(jenkins); /*URL to font*/
 }
 
 @font-face {
     font-family: 'main'; /*a name to be used later*/
-    src: url(main/jbmsb.ttf); /*URL to font*/
+    src: url(jbmsb); /*URL to font*/
 }
 
 
