@@ -1,12 +1,12 @@
 
 @font-face {
     font-family: 'yea'; /*a name to be used later*/
-    src: url("jenkins.TTF"); /*URL to font*/
+    src: url(jenkins.TTF); /*URL to font*/
 }
 
 @font-face {
     font-family: 'main'; /*a name to be used later*/
-    src: url("jbmsb.ttf"); /*URL to font*/
+    src: url(jbmsb.ttf); /*URL to font*/
 }
 
 
@@ -35,13 +35,13 @@ html {
     font-size: 100px;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-    color: #C1292E;
+    color: #56ffa5;
     font-family: yea;
     text-shadow: 8px 8px 16px #000000;
 }
 
 .headerr {
-    color: #ac252a;
+    color: #56ffa5;
     font-size:25px;
 
 }
